@@ -1,0 +1,27 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "BoardSection1.tsx": {
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/rajta/OneDrive/Desktop/ManPac",
+    "last.imagePath": "C:/Users/rajta/OneDrive/Desktop/ManPac",
+    "map.height": 15,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 15,
+    "openFiles": [
+    ],
+    "project": "BoardSection1Map.tiled-project",
+    "recentFiles": [
+        "BoardSection1.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
